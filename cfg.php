@@ -3,7 +3,7 @@
 
 // MASUKAN NOMER TARGET HARUS DI AWALI 62
 // CONTOH 6285838924533
-$Nomer = "6283117920588";
+$Nomer = "62xxxxxxxxxxx";
 
 // JUMLAH TERSERAH ELU
 $Jumlah = "3";
